@@ -1,0 +1,17 @@
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.csproj.AssemblyReference.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.AssemblyInfoInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.AssemblyInfo.cs
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.csproj.CoreCompileInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/ProducerConsumer
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/ProducerConsumer.deps.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/ProducerConsumer.runtimeconfig.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/ProducerConsumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/ProducerConsumer.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/bin/Debug/net9.0/RabbitMQ.Client.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/Producer.63604BD9.Up2Date
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/refint/ProducerConsumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ProducerConsumer.genruntimeconfig.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/ProducerConsumer/obj/Debug/net9.0/ref/ProducerConsumer.dll

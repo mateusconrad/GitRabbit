@@ -1,0 +1,17 @@
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/Sender
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/Sender.deps.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/Sender.runtimeconfig.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/Sender.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/Sender.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/bin/Debug/net9.0/RabbitMQ.Client.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.csproj.AssemblyReference.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.AssemblyInfoInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.AssemblyInfo.cs
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.csproj.CoreCompileInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.csproj.Up2Date
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/refint/Sender.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/Sender.genruntimeconfig.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/Debug/net9.0/ref/Sender.dll

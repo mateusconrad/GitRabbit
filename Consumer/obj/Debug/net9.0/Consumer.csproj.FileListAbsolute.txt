@@ -1,0 +1,17 @@
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/Consumer
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/Consumer.deps.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/Consumer.runtimeconfig.json
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/Consumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/Consumer.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/bin/Debug/net9.0/RabbitMQ.Client.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.csproj.AssemblyReference.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.csproj.CoreCompileInputs.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.csproj.Up2Date
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/refint/Consumer.dll
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.pdb
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/Consumer.genruntimeconfig.cache
+/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/obj/Debug/net9.0/ref/Consumer.dll
