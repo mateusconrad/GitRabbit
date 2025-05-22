@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8TVwSQ/Df0=",
+  "dgSpecHash": "YWim3zHUgjY=",
   "success": true,
-  "projectFilePath": "/home/mateus/RiderProjects/filas/ProducerConsumer/Consumer/Consumer.csproj",
+  "projectFilePath": "/home/mateus/RiderProjects/filas/MicroRabbit/Consumer/Consumer.csproj",
   "expectedPackageFiles": [
     "/home/mateus/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
     "/home/mateus/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

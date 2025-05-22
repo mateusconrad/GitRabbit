@@ -119,11 +119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/Sender.csproj",
+      "projectUniqueName": "/home/mateus/RiderProjects/filas/MicroRabbit/Sender/Sender.csproj",
       "projectName": "Sender",
-      "projectPath": "/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/Sender.csproj",
+      "projectPath": "/home/mateus/RiderProjects/filas/MicroRabbit/Sender/Sender.csproj",
       "packagesPath": "/home/mateus/.nuget/packages/",
-      "outputPath": "/home/mateus/RiderProjects/filas/ProducerConsumer/Sender/obj/",
+      "outputPath": "/home/mateus/RiderProjects/filas/MicroRabbit/Sender/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateus/.nuget/NuGet/NuGet.Config"
