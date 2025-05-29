@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2D8loBTydVo=",
+  "dgSpecHash": "MIiUvDEnjx8=",
   "success": true,
   "projectFilePath": "/home/mateus/RiderProjects/filas/MicroRabbit/MicroRabbit.Domain.core/MicroRabbit.Domain.core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/home/mateus/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/mateus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
